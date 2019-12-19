@@ -1,2 +1,2 @@
 # RPIBarjer
-Raspberry pi automatik barjer controller
+Raspberry pi automatic barjer controller
